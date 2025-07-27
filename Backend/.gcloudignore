@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+.env
+.git
+node_modules/
+*.kml
+*.csv
+*.json
+google-cloud-sdk
