@@ -9,6 +9,20 @@ Visualize the Pulse: Present the synthesized information on a real-time, map-bas
 Tech Stack: Use of Google AI technologies is mandatory.
 Special prize for using Firebase Studio and deploying the project
 
+| Google Technology               | Use Case                                                      |
+| ------------------------------- | ------------------------------------------------------------- |
+| **Gemini 1.5 Pro**              | Incident classification, clustering, and inference generation |
+| **Gemini Vision API**           | Media understanding for photo-based reports                   |
+| **Google Custom Search Engine** | Event discovery from news and web                             |
+| **Google Cloud Functions**      | Scheduled inference and data processing agents                |
+| **Google Pub/Sub**              | Real-time messaging and notification trigger pipeline         |
+| **Google Maps SDK**        | Real-time event map and mood visualization                  |
+| **Google Geolocation API** | Geocoding and reverse-geocoding for user-reported incidents |
+| **Google Maps SDK**        | Real-time event map and mood visualization                  |
+| **Google Geolocation API** | Geocoding and reverse-geocoding for user-reported incidents |
+
+
+
 
 
 Frontend - React native
