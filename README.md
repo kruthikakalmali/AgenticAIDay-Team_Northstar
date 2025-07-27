@@ -1,6 +1,17 @@
 # AgenticAIDay-Team_Northstar
 
 Frontend - React native
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. Start the app
+
+   ```bash
+   npx expo start
+   ```
 
 
 Swagger docs
