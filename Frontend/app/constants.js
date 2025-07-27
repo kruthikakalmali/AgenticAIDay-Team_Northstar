@@ -1,0 +1,1 @@
+export const INCIDENT_API_URL_HOST = "https://incident-reporter-66fji4lxba-uc.a.run.app" 
