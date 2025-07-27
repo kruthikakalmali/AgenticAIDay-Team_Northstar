@@ -25,4 +25,4 @@ Backend
    ```bash
    uvicorn Orchestrator:app --reload
    ```
-![Team Logo]([https://example.com/logo.png](https://github.com/kruthikakalmali/AgenticAIDay-Team_Northstar/blob/master/Architecture.png))
+![Architecture Diagram]([https://example.com/logo.png](https://github.com/kruthikakalmali/AgenticAIDay-Team_Northstar/blob/master/Architecture.png)
